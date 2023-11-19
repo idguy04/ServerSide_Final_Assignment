@@ -6,6 +6,7 @@ In this app you can search for any movie and view information about it (i.e. mov
 
 ### Features
 
+- User Registration System
 - Movies search
 - Save Favorite Movies
 - Users Chat
