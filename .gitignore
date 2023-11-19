@@ -223,6 +223,8 @@ AppPackages/
 
 #Misc
 Web.config
+Scripts/js_util/ChatConfig.js
+Scripts/js_util/apiKeys.js;
 
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
