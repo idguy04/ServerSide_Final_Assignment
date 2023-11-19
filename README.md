@@ -2,7 +2,15 @@
 
 ### A full stack movies tracking application created as final project for server-side course.
 
-In this app you can search for any movie and view information about it (i.e. movie description, air time, cast and more)
+In this app you can search for any movie and view information about it (i.e. movie description, air time, cast and more).
+
+### Features
+
+- Movies search
+- Save Favorite Movies
+- Users Chat
+
+### Technologies
 
 - Front End: html, js and css
 - Back End: C#
